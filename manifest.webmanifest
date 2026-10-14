@@ -1,1 +1,22 @@
-{"name":"Notre préparation pour Adel","short_name":"Adel","description":"Liste familiale partagée pour préparer l'arrivée d'Adel.","lang":"fr-FR","start_url":"./","scope":"./","display":"standalone","background_color":"#f4f7f4","theme_color":"#355d49"}
+{
+  "id": "./",
+  "name": "Notre préparation pour Adel",
+  "short_name": "Adel",
+  "description": "Liste familiale partagée pour préparer l’arrivée d’Adel.",
+  "lang": "fr-FR",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f7f4",
+  "theme_color": "#355d49",
+  "icons": [
+    {
+      "src": "adel-icon.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
