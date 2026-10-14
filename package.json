@@ -1,7 +1,1 @@
-{
-  "name":"adel-family-checklist",
-  "private":true,
-  "version":"5.0.0",
-  "type":"module",
-  "dependencies":{"@netlify/blobs":"^10.0.0"}
-}
+{"name":"adel-family-checklist","private":true,"version":"6.0.0","type":"module","dependencies":{"@netlify/blobs":"^10.0.0"}}
